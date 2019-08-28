@@ -4,7 +4,11 @@
 
 [Download for Windows](https://github.com/jsdecena/dictio/releases/download/v0.1.0-darwin/dictio.Setup.0.0.1.exe)
 
-> An electron-vue project
+---
+
+# Screenshot
+
+![image](https://i.imgur.com/KS1reN5.png)
 
 #### Build Setup
 
